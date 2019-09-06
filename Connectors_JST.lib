@@ -1,0 +1,23 @@
+EESchema-LIBRARY Version 2.4
+#encoding utf-8
+#
+# B2B-XH-A
+#
+DEF B2B-XH-A J 0 40 Y N 1 F N
+F0 "J" 0 200 50 H V C CNN
+F1 "B2B-XH-A" 0 -200 50 H V C CNN
+F2 "Connectors_JST:JST_XH_B02B-XH-A_02x2.50mm_Straight" 150 -300 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+$FPLIST
+ Connector*:*_1x??_*
+$ENDFPLIST
+DRAW
+S 50 -45 100 -55 1 1 6 N
+S 50 55 100 45 1 1 6 N
+S 50 100 150 -100 1 1 10 f
+X Pin_1 1 -100 50 150 R 50 50 1 1 P
+X Pin_2 2 -100 -50 150 R 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+#End Library
