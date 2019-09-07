@@ -1,7 +1,15 @@
 EESchema-DOCLIB  Version 2.0
 #
 $CMP PH-1X3SG
-D 2.54mm(100mil) pitch 3P Pin Header 
+D 2.54mm(100mil) pitch 3P Pin Header
+$ENDCMP
+#
+$CMP PH-1X4SG
+D 2.54mm(100mil) pitch 4P Pin Header
+$ENDCMP
+#
+$CMP PH-1X5SG
+D 2.54mm(100mil) pitch 5P Pin Header
 $ENDCMP
 #
 $CMP ULO-ZS431-18P1G
