@@ -12,6 +12,10 @@ $CMP PH-1X5SG
 D 2.54mm(100mil) pitch 5P Pin Header
 $ENDCMP
 #
+$CMP PH-1X6SG
+D 2.54mm(100mil) pitch 6P Pin Header
+$ENDCMP
+#
 $CMP ULO-ZS431-18P1G
 D ゼロプレッシャーICソケット(18P) 600mil
 K ゼロプレッシャーICソケット
