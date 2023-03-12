@@ -2,8 +2,9 @@
 
 ## PIC16 シリーズ
 - PIC16F1827
-    - PIC1827-I/P
-    - PIC1827T-I/SS
+    - PIC16F1827-I/P
+    - PIC16F1827T-I/SS
+- PIC16F18857
     - PIC18857-I/SP
 
 ## 秋月電子取り扱い部品
