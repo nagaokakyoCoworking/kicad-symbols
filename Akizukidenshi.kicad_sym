@@ -3,7 +3,7 @@
     (property "Reference" "Q" (at -8.89 5.08 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Value" "" (at 0 0 0)
+    (property "Value" "2SK4017Q" (at 0 0 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Footprint" "" (at 0 0 0)
