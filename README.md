@@ -22,6 +22,7 @@
     - B2B-EH-A
     - B3B-EH-A
     - B4B-EH-A
+    - S2B-EH
 - XH コネクタ
     - B2B-XH-A
     - S2B-XH-A
